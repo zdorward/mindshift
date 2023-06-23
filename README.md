@@ -1,6 +1,6 @@
 # BCI Chromium Brightness Extension (natHACKS 2022)
 
-By: Eric Xiong, Connor Chin, Zack Dorward
+Developed by: Zack Dorward, Eric Xiong and Connor Chin,
 
 Installation:
 
